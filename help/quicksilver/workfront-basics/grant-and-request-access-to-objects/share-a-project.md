@@ -74,6 +74,8 @@ You can share a project in the following ways:
      >When attaching or saving a template, you can clear the Template Project Sharing rules.
 
    * Edit a project and defining the **When someone is given access to this project** setting.&nbsp;For more information, see [Edit projects](../../manage-work/projects/manage-projects/edit-projects.md).
+   
+   * Edit a user's access level and define the setting found in projects > edit > create labled "When someone creates a project, grant...". This setting allows a user to select certain other users to be automatically added to the project sharing settings each time they create a project.&nbsp;For more information, see [Grant access to projects]([../../manage-work/projects/manage-projects/edit-projects.md](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-projects.html?lang=en#:~:text=Adobe%20Workfront.-,(Optional),-Click%20set%20sharing)).
 
 <!--
 <div data-mc-conditions="QuicksilverOrClassic.Draft mode">
